@@ -1,0 +1,9 @@
+My write-up material has been combined with my Shiny App but you can still read the html version (the names are "Introduction.html" and "Workflow.html").
+
+The video has been uploaded to Youtube (link: https://youtu.be/wnCrCkR4Ma8) and you can also find it in the zip fold in case of internet or Youtube issue.
+
+My raw data files are results.txt and vacounties.json.
+
+Thanks a lot!
+
+Happy holiday!
